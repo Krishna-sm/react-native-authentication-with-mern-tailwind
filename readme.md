@@ -22,3 +22,11 @@ https://react-native-authentiacation-complete.vercel.app/api/v1
 
 # build 
 https://docs.expo.dev/build-reference/apk/
+
+
+## app apk file
+
+```bash
+
+https://expo.dev/artifacts/eas/5hATmUXdSSyMpngLyV162D.apk
+```
